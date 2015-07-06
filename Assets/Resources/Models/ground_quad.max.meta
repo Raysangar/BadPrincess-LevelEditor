@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 849f08865eaa4af43984676c5d09cee1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ground_1
+    100002: ground_2
+    100004: ground_3
+    100006: ground_4
+    100008: //RootNode
+    100010: OgreMaxSceneSettings001
+    100012: quad
+    100014: river_ground
+    100016: water_1
+    100018: water_10
+    100020: water_11
+    100022: water_12
+    100024: water_2
+    100026: water_3
+    100028: water_4
+    100030: water_5
+    100032: water_6
+    100034: water_7
+    100036: water_8
+    100038: water_9
+    400000: ground_1
+    400002: ground_2
+    400004: ground_3
+    400006: ground_4
+    400008: //RootNode
+    400010: OgreMaxSceneSettings001
+    400012: quad
+    400014: river_ground
+    400016: water_1
+    400018: water_10
+    400020: water_11
+    400022: water_12
+    400024: water_2
+    400026: water_3
+    400028: water_4
+    400030: water_5
+    400032: water_6
+    400034: water_7
+    400036: water_8
+    400038: water_9
+    2300000: ground_1
+    2300002: ground_2
+    2300004: ground_3
+    2300006: ground_4
+    2300008: quad
+    2300010: river_ground
+    2300012: water_1
+    2300014: water_10
+    2300016: water_11
+    2300018: water_12
+    2300020: water_2
+    2300022: water_3
+    2300024: water_4
+    2300026: water_5
+    2300028: water_6
+    2300030: water_7
+    2300032: water_8
+    2300034: water_9
+    3300000: ground_1
+    3300002: ground_2
+    3300004: ground_3
+    3300006: ground_4
+    3300008: quad
+    3300010: river_ground
+    3300012: water_1
+    3300014: water_10
+    3300016: water_11
+    3300018: water_12
+    3300020: water_2
+    3300022: water_3
+    3300024: water_4
+    3300026: water_5
+    3300028: water_6
+    3300030: water_7
+    3300032: water_8
+    3300034: water_9
+    4300000: ground_1
+    4300002: ground_2
+    4300004: ground_4
+    4300006: ground_3
+    4300008: water_12
+    4300010: water_11
+    4300012: water_10
+    4300014: water_9
+    4300016: water_8
+    4300018: water_7
+    4300020: water_6
+    4300022: water_5
+    4300024: water_4
+    4300026: water_3
+    4300028: water_2
+    4300030: water_1
+    4300032: river_ground
+    4300034: quad
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

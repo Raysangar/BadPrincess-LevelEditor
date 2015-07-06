@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: b16da34d3a081284396501c1d912d210
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Assembly001
+    100002: Assembly002
+    100004: Ground
+    100006: //RootNode
+    100008: OgreMaxSceneSettings001
+    100010: OgreMaxSceneSettings002
+    100012: water_1
+    100014: water_10
+    100016: water_11
+    100018: water_12
+    100020: water_2
+    100022: water_3
+    100024: water_4
+    100026: water_5
+    100028: water_6
+    100030: water_7
+    100032: water_8
+    100034: water_9
+    400000: Assembly001
+    400002: Assembly002
+    400004: Ground
+    400006: //RootNode
+    400008: OgreMaxSceneSettings001
+    400010: OgreMaxSceneSettings002
+    400012: water_1
+    400014: water_10
+    400016: water_11
+    400018: water_12
+    400020: water_2
+    400022: water_3
+    400024: water_4
+    400026: water_5
+    400028: water_6
+    400030: water_7
+    400032: water_8
+    400034: water_9
+    2300000: Ground
+    2300002: water_1
+    2300004: water_10
+    2300006: water_11
+    2300008: water_12
+    2300010: water_2
+    2300012: water_3
+    2300014: water_4
+    2300016: water_5
+    2300018: water_6
+    2300020: water_7
+    2300022: water_8
+    2300024: water_9
+    3300000: Ground
+    3300002: water_1
+    3300004: water_10
+    3300006: water_11
+    3300008: water_12
+    3300010: water_2
+    3300012: water_3
+    3300014: water_4
+    3300016: water_5
+    3300018: water_6
+    3300020: water_7
+    3300022: water_8
+    3300024: water_9
+    4300000: water_12
+    4300002: water_11
+    4300004: water_10
+    4300006: water_9
+    4300008: water_8
+    4300010: water_7
+    4300012: water_6
+    4300014: water_5
+    4300016: water_4
+    4300018: water_3
+    4300020: water_2
+    4300022: water_1
+    4300024: Ground
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

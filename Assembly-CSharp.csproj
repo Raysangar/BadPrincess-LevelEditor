@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{DEC403C0-595C-D87D-BC50-B3417C672CD0}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_2;UNITY_4_5;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\C3DSoundEvent.cs" />
+     <Compile Include="Assets\Scripts\CAnimatedGraphics.cs" />
+     <Compile Include="Assets\Scripts\CAnimationInventaryComponent.cs" />
+     <Compile Include="Assets\Scripts\CArrowBehavior.cs" />
+     <Compile Include="Assets\Scripts\CAssassinCamouflage.cs" />
+     <Compile Include="Assets\Scripts\CAssassinState.cs" />
+     <Compile Include="Assets\Scripts\CAvatarController.cs" />
+     <Compile Include="Assets\Scripts\CCamera.cs" />
+     <Compile Include="Assets\Scripts\CCarrierState.cs" />
+     <Compile Include="Assets\Scripts\CChangeEntityTypeState.cs" />
+     <Compile Include="Assets\Scripts\CChaseCarriedEntityState.cs" />
+     <Compile Include="Assets\Scripts\CChestBehaviour.cs" />
+     <Compile Include="Assets\Scripts\CChestTrap.cs" />
+     <Compile Include="Assets\Scripts\CCombatStats.cs" />
+     <Compile Include="Assets\Scripts\CDamageTrap.cs" />
+     <Compile Include="Assets\Scripts\CDamageTrigger.cs" />
+     <Compile Include="Assets\Scripts\CDirectionalLight.cs" />
+     <Compile Include="Assets\Scripts\CDiscover.cs" />
+     <Compile Include="Assets\Scripts\CEnemyController.cs" />
+     <Compile Include="Assets\Scripts\CEnemyDetectionManager.cs" />
+     <Compile Include="Assets\Scripts\CEntityTypeExchanger.cs" />
+     <Compile Include="Assets\Scripts\CGUIManager.cs" />
+     <Compile Include="Assets\Scripts\CGameManagerComponent.cs" />
+     <Compile Include="Assets\Scripts\CGatherState.cs" />
+     <Compile Include="Assets\Scripts\CGraphics.cs" />
+     <Compile Include="Assets\Scripts\CGroupBehaviour.cs" />
+     <Compile Include="Assets\Scripts\CInteractSOState.cs" />
+     <Compile Include="Assets\Scripts\CKitchenHeal.cs" />
+     <Compile Include="Assets\Scripts\CKnightState.cs" />
+     <Compile Include="Assets\Scripts\CLife.cs" />
+     <Compile Include="Assets\Scripts\CListenerComponent.cs" />
+     <Compile Include="Assets\Scripts\CMudTrap.cs" />
+     <Compile Include="Assets\Scripts\CParticle.cs" />
+     <Compile Include="Assets\Scripts\CPhysicController.cs" />
+     <Compile Include="Assets\Scripts\CPhysicDebug.cs" />
+     <Compile Include="Assets\Scripts\CPointLight.cs" />
+     <Compile Include="Assets\Scripts\CPrincessManager.cs" />
+     <Compile Include="Assets\Scripts\CRangerBehaviour.cs" />
+     <Compile Include="Assets\Scripts\CRayPerception.cs" />
+     <Compile Include="Assets\Scripts\CRemovableWorldComponent.cs" />
+     <Compile Include="Assets\Scripts\CResource.cs" />
+     <Compile Include="Assets\Scripts\CRouteTo.cs" />
+     <Compile Include="Assets\Scripts\CSetPhysicEntityHelperComponent.cs" />
+     <Compile Include="Assets\Scripts\CSmartObject.cs" />
+     <Compile Include="Assets\Scripts\CSoundEvent.cs" />
+     <Compile Include="Assets\Scripts\CSpawnPointComponent.cs" />
+     <Compile Include="Assets\Scripts\CStateMachineExecutor.cs" />
+     <Compile Include="Assets\Scripts\CStatsModifier.cs" />
+     <Compile Include="Assets\Scripts\CSteeringMovement.cs" />
+     <Compile Include="Assets\Scripts\CSwitchPosition.cs" />
+     <Compile Include="Assets\Scripts\CSwitchTrigger.cs" />
+     <Compile Include="Assets\Scripts\CThiefEnemyState.cs" />
+     <Compile Include="Assets\Scripts\CTransportedComponent.cs" />
+     <Compile Include="Assets\Scripts\CTrapper.cs" />
+     <Compile Include="Assets\Scripts\CUnitSelected.cs" />
+     <Compile Include="Assets\Scripts\CVisibility.cs" />
+     <Compile Include="Assets\Scripts\CWaveManagerComponent.cs" />
+     <Compile Include="Assets\Scripts\CWellComponent.cs" />
+     <Compile Include="Assets\Scripts\CWorkmanState.cs" />
+     <Compile Include="Assets\Scripts\CWorldComponent.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\ExportToPhysXScript.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\LevelExporter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\MinimapExporter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGetters\BoxColliderAttributeGetter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGetters\CapsuleColliderAttributeGetter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGetters\ComponentAttributesGetter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGetters\RigidbodyAttributeGetter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGetters\ScriptAttributesGetter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGetters\TransformAttributesGetter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentAttributesGettersDictionary.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\ComponentTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\EntityInfo.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\EntityInfoTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\MapCreator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\RepeatedAttributesController.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\StringFormatter.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TranslatorsDictionary.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TypeTranslators\BoolTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TypeTranslators\DefaultTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TypeTranslators\FloatTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TypeTranslators\StringTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TypeTranslators\TypeTranslator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\TypeTranslators\Vector3Translator.cs" />
+     <Compile Include="Assets\Scripts\LevelEditor\Utilities\WayPointsExporter.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

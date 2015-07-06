@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 13df3f99051bd18438cc78b4545717f6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box002 1
+    100004: Box003
+    100006: Box003 1
+    100008: Box004
+    100010: Box004 1
+    100012: Box005
+    100014: Box005 1
+    100016: Box006
+    100018: Box007
+    100020: Box007 1
+    100022: Box008
+    100024: Box008 1
+    100026: Box009
+    100028: Box009 1
+    100030: Box010
+    100032: Box010 1
+    100034: Box011
+    100036: Box011 1
+    100038: Box012
+    100040: Box012 1
+    100042: Box013
+    100044: Box013 1
+    100046: Box014
+    100048: Box014 1
+    100050: Box015
+    100052: Box015 1
+    100054: Box016
+    100056: Box017
+    100058: Box018
+    100060: Box019
+    100062: Box020
+    100064: Cylinder003
+    100066: Cylinder004
+    100068: Ground
+    100070: //RootNode
+    100072: OgreMaxSceneSettings001
+    100074: puente3
+    100076: puentemadera
+    100078: rio
+    400000: Box002
+    400002: Box002 1
+    400004: Box003
+    400006: Box003 1
+    400008: Box004
+    400010: Box004 1
+    400012: Box005
+    400014: Box005 1
+    400016: Box006
+    400018: Box007
+    400020: Box007 1
+    400022: Box008
+    400024: Box008 1
+    400026: Box009
+    400028: Box009 1
+    400030: Box010
+    400032: Box010 1
+    400034: Box011
+    400036: Box011 1
+    400038: Box012
+    400040: Box012 1
+    400042: Box013
+    400044: Box013 1
+    400046: Box014
+    400048: Box014 1
+    400050: Box015
+    400052: Box015 1
+    400054: Box016
+    400056: Box017
+    400058: Box018
+    400060: Box019
+    400062: Box020
+    400064: Cylinder003
+    400066: Cylinder004
+    400068: Ground
+    400070: //RootNode
+    400072: OgreMaxSceneSettings001
+    400074: puente3
+    400076: puentemadera
+    400078: rio
+    2300000: Box002
+    2300002: Box002 1
+    2300004: Box003
+    2300006: Box003 1
+    2300008: Box004
+    2300010: Box004 1
+    2300012: Box005
+    2300014: Box005 1
+    2300016: Box006
+    2300018: Box007
+    2300020: Box007 1
+    2300022: Box008
+    2300024: Box008 1
+    2300026: Box009
+    2300028: Box009 1
+    2300030: Box010
+    2300032: Box010 1
+    2300034: Box011
+    2300036: Box011 1
+    2300038: Box012
+    2300040: Box012 1
+    2300042: Box013
+    2300044: Box013 1
+    2300046: Box014
+    2300048: Box014 1
+    2300050: Box015
+    2300052: Box015 1
+    2300054: Box016
+    2300056: Box017
+    2300058: Box018
+    2300060: Box019
+    2300062: Box020
+    2300064: Cylinder003
+    2300066: Cylinder004
+    2300068: Ground
+    2300070: rio
+    3300000: Box002
+    3300002: Box002 1
+    3300004: Box003
+    3300006: Box003 1
+    3300008: Box004
+    3300010: Box004 1
+    3300012: Box005
+    3300014: Box005 1
+    3300016: Box006
+    3300018: Box007
+    3300020: Box007 1
+    3300022: Box008
+    3300024: Box008 1
+    3300026: Box009
+    3300028: Box009 1
+    3300030: Box010
+    3300032: Box010 1
+    3300034: Box011
+    3300036: Box011 1
+    3300038: Box012
+    3300040: Box012 1
+    3300042: Box013
+    3300044: Box013 1
+    3300046: Box014
+    3300048: Box014 1
+    3300050: Box015
+    3300052: Box015 1
+    3300054: Box016
+    3300056: Box017
+    3300058: Box018
+    3300060: Box019
+    3300062: Box020
+    3300064: Cylinder003
+    3300066: Cylinder004
+    3300068: Ground
+    3300070: rio
+    4300000: rio
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: Box005
+    4300010: Box006
+    4300012: Box007
+    4300014: Box008
+    4300016: Box009
+    4300018: Box010
+    4300020: Box011
+    4300022: Box012
+    4300024: Box013
+    4300026: Box014
+    4300028: Box015
+    4300030: Box016
+    4300032: Box017
+    4300034: Box018
+    4300036: Box019
+    4300038: Box020
+    4300040: Cylinder003
+    4300042: Cylinder004
+    4300044: Box002
+    4300046: Box003
+    4300048: Box004
+    4300050: Box005
+    4300052: Box007
+    4300054: Box008
+    4300056: Box009
+    4300058: Box010
+    4300060: Box011
+    4300062: Box012
+    4300064: Box013
+    4300066: Box014
+    4300068: Box015
+    4300070: Ground
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

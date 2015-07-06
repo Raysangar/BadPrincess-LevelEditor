@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 8bc9504046206374f99359385133f161
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Assembly001
+    100002: //RootNode
+    100004: CastleCore
+    100006: Entrance
+    100008: InnerWall1
+    100010: InnerWall2
+    100012: InnerWall3
+    100014: OgreMaxSceneSettings001
+    100016: OuterWall1
+    100018: OuterWall2
+    100020: OuterWall3
+    100022: OuterWall4
+    100024: Roof1
+    100026: Roof2
+    100028: Tower1
+    100030: Tower2
+    100032: Box028
+    100034: Box055
+    100036: Box059
+    100038: Ground
+    400000: Assembly001
+    400002: //RootNode
+    400004: CastleCore
+    400006: Entrance
+    400008: InnerWall1
+    400010: InnerWall2
+    400012: InnerWall3
+    400014: OgreMaxSceneSettings001
+    400016: OuterWall1
+    400018: OuterWall2
+    400020: OuterWall3
+    400022: OuterWall4
+    400024: Roof1
+    400026: Roof2
+    400028: Tower1
+    400030: Tower2
+    400032: Box028
+    400034: Box055
+    400036: Box059
+    400038: Ground
+    2300000: CastleCore
+    2300002: Entrance
+    2300004: InnerWall1
+    2300006: InnerWall2
+    2300008: InnerWall3
+    2300010: OuterWall1
+    2300012: OuterWall2
+    2300014: OuterWall3
+    2300016: OuterWall4
+    2300018: Roof1
+    2300020: Roof2
+    2300022: Tower1
+    2300024: Tower2
+    2300026: Box028
+    2300028: Box055
+    2300030: Box059
+    2300032: Ground
+    3300000: CastleCore
+    3300002: Entrance
+    3300004: InnerWall1
+    3300006: InnerWall2
+    3300008: InnerWall3
+    3300010: OuterWall1
+    3300012: OuterWall2
+    3300014: OuterWall3
+    3300016: OuterWall4
+    3300018: Roof1
+    3300020: Roof2
+    3300022: Tower1
+    3300024: Tower2
+    3300026: Box028
+    3300028: Box055
+    3300030: Box059
+    3300032: Ground
+    4300000: Tower2
+    4300002: Roof2
+    4300004: OuterWall3
+    4300006: OuterWall2
+    4300008: Roof1
+    4300010: OuterWall4
+    4300012: Entrance
+    4300014: OuterWall1
+    4300016: Tower1
+    4300018: InnerWall3
+    4300020: InnerWall2
+    4300022: InnerWall1
+    4300024: CastleCore
+    4300026: Box028
+    4300028: Box055
+    4300030: Box059
+    4300032: Ground
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
